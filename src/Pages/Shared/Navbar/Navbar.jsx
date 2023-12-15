@@ -75,7 +75,7 @@ const Navbar = () => {
                     </ul>
                 </div>
                 <div className="navbar-end">
-                    <button>Loginn</button>
+                    <button>Login</button>
 
                     {/* <div>
                         {
