@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "name": "Elegant Dining Table",
+    "category": "Dining Room",
+    "description": "A beautifully crafted dining table with a solid wood finish.",
+    "price": 499.99,
+    "dimensions": {
+      "height": 30,
+      "width": 60,
+      "depth": 36
+    },
+    "materials": ["Solid Wood", "Metal"],
+    "colors": ["Oak", "Espresso"],
+    "availability": true,
+    "images": [
+      "dining_table_image1.jpg",
+      "dining_table_image2.jpg",
+      "dining_table_image3.jpg",
+      "dining_table_image4.jpg"
+    ],
+    "detailedDescription": "The Elegant Dining Table is a centerpiece for your dining room. It features a timeless design with a solid wood finish, providing both durability and elegance. The table is perfect for family gatherings or dinner parties. Its dimensions are 30 inches in height, 60 inches in width, and 36 inches in depth. Available in Oak and Espresso colors. Bring style and functionality to your home with this exquisite dining table."
+  },
+  {
+    "id": 2,
+    "name": "Comfortable Dining Chair",
+    "category": "Dining Room",
+    "description": "A comfortable dining chair with a modern design.",
+    "price": 99.99,
+    "dimensions": {
+      "height": 36,
+      "width": 18,
+      "depth": 20
+    },
+    "materials": ["Wood", "Leather"],
+    "colors": ["Black", "White"],
+    "availability": true,
+    "images": [
+      "chair_image1.jpg",
+      "chair_image2.jpg",
+      "chair_image3.jpg",
+      "chair_image4.jpg"
+    ],
+    "detailedDescription": "The Comfortable Dining Chair is designed to complement your dining table. With a modern and sleek design, this chair provides both style and comfort. It is crafted with high-quality wood and leather materials, ensuring durability. The dimensions of the chair are 36 inches in height, 18 inches in width, and 20 inches in depth. Available in Black and White colors. Enhance your dining experience with this stylish and comfortable dining chair."
+  },
+  {
+    "id": 3,
+    "name": "Modern Sofa",
+    "category": "Living Room",
+    "description": "A sleek and modern sofa with adjustable features.",
+    "price": 899.99,
+    "dimensions": {
+      "height": 28,
+      "width": 80,
+      "depth": 36
+    },
+    "materials": ["Leather", "Metal"],
+    "colors": ["Gray", "Brown"],
+    "availability": true,
+    "images": [
+      "sofa_image1.jpg",
+      "sofa_image2.jpg",
+      "sofa_image3.jpg",
+      "sofa_image4.jpg"
+    ],
+    "detailedDescription": "The Modern Sofa is a perfect addition to your living room. With a sleek and adjustable design, this sofa offers both style and comfort. It is crafted with high-quality leather and metal materials, ensuring durability. The dimensions of the sofa are 28 inches in height, 80 inches in width, and 36 inches in depth. Available in Gray and Brown colors. Elevate your living space with this modern and comfortable sofa."
+  },
+  {
+    "id": 4,
+    "name": "Contemporary Coffee Table",
+    "category": "Living Room",
+    "description": "A stylish and contemporary coffee table with a glass top.",
+    "price": 299.99,
+    "dimensions": {
+      "height": 18,
+      "width": 40,
+      "depth": 24
+    },
+    "materials": ["Glass", "Metal"],
+    "colors": ["Silver", "Black"],
+    "availability": true,
+    "images": [
+      "coffee_table_image1.jpg",
+      "coffee_table_image2.jpg",
+      "coffee_table_image3.jpg",
+      "coffee_table_image4.jpg"
+    ],
+    "detailedDescription": "The Contemporary Coffee Table is a focal point for your living room. With a stylish design and a glass top, this coffee table adds a touch of sophistication to your space. It is crafted with high-quality glass and metal materials, ensuring both durability and elegance. The dimensions of the coffee table are 18 inches in height, 40 inches in width, and 24 inches in depth. Available in Silver and Black colors. Complete your living room setup with this contemporary and functional coffee table."
+  },
+  {
+    "id": 5,
+    "name": "Versatile Bookshelf",
+    "category": "Home Office",
+    "description": "A versatile bookshelf with adjustable shelves for your home office.",
+    "price": 179.99,
+    "dimensions": {
+      "height": 72,
+      "width": 36,
+      "depth": 12
+    },
+    "materials": ["Wood", "Particle Board"],
+    "colors": ["Natural Wood", "White"],
+    "availability": true,
+    "images": [
+      "bookshelf_image1.jpg",
+      "bookshelf_image2.jpg",
+      "bookshelf_image3.jpg",
+      "bookshelf_image4.jpg"
+    ],
+    "detailedDescription": "The Versatile Bookshelf is a practical addition to your home office. With adjustable shelves, it provides ample space for organizing books, decor, and more. It is crafted with high-quality wood and particle board materials, ensuring durability. The dimensions of the bookshelf are 72 inches in height, 36 inches in width, and 12 inches in depth. Available in Natural Wood and White colors. Enhance your home office organization with this versatile and stylish bookshelf."
+  },
+  {
+    "id": 6,
+    "name": "Classic Bedroom Dresser",
+    "category": "Bedroom",
+    "description": "A classic bedroom dresser with ample storage space and elegant design.",
+    "price": 349.99,
+    "dimensions": {
+      "height": 36,
+      "width": 60,
+      "depth": 18
+    },
+    "materials": ["Solid Wood", "MDF"],
+    "colors": ["Cherry", "White"],
+    "availability": true,
+    "images": [
+      "dresser_image1.jpg",
+      "dresser_image2.jpg",
+      "dresser_image3.jpg",
+      "dresser_image4.jpg"
+    ],
+    "detailedDescription": "The Classic Bedroom Dresser is a timeless addition to your bedroom. With ample storage space and an elegant design, it combines functionality with style. Crafted with high-quality solid wood and MDF materials, this dresser ensures both durability and sophistication. The dimensions of the dresser are 36 inches in height, 60 inches in width, and 18 inches in depth. Available in Cherry and White colors. Complete your bedroom decor with this classic and practical dresser."
+  },
+  {
+    "id": 7,
+    "name": "Comfort Lounge Chair",
+    "category": "Living Room",
+    "description": "A comfortable lounge chair for relaxing evenings with a modern design.",
+    "price": 249.99,
+    "dimensions": {
+      "height": 32,
+      "width": 28,
+      "depth": 36
+    },
+    "materials": ["Fabric", "Metal"],
+    "colors": ["Blue", "Gray"],
+    "availability": true,
+    "images": [
+      "lounge_chair_image1.jpg",
+      "lounge_chair_image2.jpg",
+      "lounge_chair_image3.jpg",
+      "lounge_chair_image4.jpg"
+    ],
+    "detailedDescription": "The Comfort Lounge Chair is designed for ultimate relaxation in your living room. With its comfortable seating and modern design, it adds a touch of luxury to your space. Crafted with high-quality fabric and metal materials, this lounge chair ensures both comfort and durability. The dimensions of the chair are 32 inches in height, 28 inches in width, and 36 inches in depth. Available in Blue and Gray colors. Unwind in style with this comfortable and chic lounge chair."
+  },
+  {
+    "id": 8,
+    "name": "Modern Study Desk",
+    "category": "Home Office",
+    "description": "A sleek and modern study desk for your home office or workspace.",
+    "price": 199.99,
+    "dimensions": {
+      "height": 30,
+      "width": 48,
+      "depth": 24
+    },
+    "materials": ["Laminate", "Metal"],
+    "colors": ["Walnut", "Black"],
+    "availability": true,
+    "images": [
+      "study_desk_image1.jpg",
+      "study_desk_image2.jpg",
+      "study_desk_image3.jpg",
+      "study_desk_image4.jpg"
+    ],
+    "detailedDescription": "The Modern Study Desk is perfect for creating a productive home office environment. With its sleek design and functional features, it provides a comfortable workspace. Crafted with high-quality laminate and metal materials, this study desk ensures durability. The dimensions of the desk are 30 inches in height, 48 inches in width, and 24 inches in depth. Available in Walnut and Black colors. Boost your productivity with this modern and stylish study desk."
+  },
+  {
+    "id": 9,
+    "name": "Contemporary Bar Stool",
+    "category": "Kitchen",
+    "description": "A contemporary bar stool with a sleek design, perfect for your kitchen counter.",
+    "price": 129.99,
+    "dimensions": {
+      "height": 40,
+      "width": 18,
+      "depth": 18
+    },
+    "materials": ["Metal", "Leather"],
+    "colors": ["Silver", "Black"],
+    "availability": true,
+    "images": [
+      "bar_stool_image1.jpg",
+      "bar_stool_image2.jpg",
+      "bar_stool_image3.jpg",
+      "bar_stool_image4.jpg"
+    ],
+    "detailedDescription": "The Contemporary Bar Stool adds a touch of sophistication to your kitchen counter. With its sleek design and comfortable seating, it's perfect for casual dining or entertaining guests. Crafted with high-quality metal and leather materials, this bar stool ensures both durability and style. The dimensions of the stool are 40 inches in height, 18 inches in width, and 18 inches in depth. Available in Silver and Black colors. Upgrade your kitchen decor with this contemporary and functional bar stool."
+  },
+  {
+    "id": 10,
+    "name": "Modern Bedside Table",
+    "category": "Bedroom",
+    "description": "A modern bedside table with sleek storage and contemporary design.",
+    "price": 79.99,
+    "dimensions": {
+      "height": 24,
+      "width": 18,
+      "depth": 18
+    },
+    "materials": ["Wood", "Metal"],
+    "colors": ["White", "Silver"],
+    "availability": true,
+    "images": [
+      "bedside_table_image1.jpg",
+      "bedside_table_image2.jpg",
+      "bedside_table_image3.jpg",
+      "bedside_table_image4.jpg"
+    ],
+    "detailedDescription": "The Modern Bedside Table is a functional and stylish addition to your bedroom. With sleek storage and a contemporary design, it enhances the overall aesthetic of your sleep space. Crafted with high-quality wood and metal materials, this bedside table ensures both durability and modern appeal. The dimensions of the table are 24 inches in height, 18 inches in width, and 18 inches in depth. Available in White and Silver colors. Elevate your bedroom decor with this modern and practical bedside table."
+  }
+]
