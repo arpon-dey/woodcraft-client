@@ -30,9 +30,7 @@ const Register = () => {
                             <div className="form-control">
                                 
                                 <input type="password" placeholder="password" className="input input-bordered" required />
-                                <label className="label">
-                                    <a href="#" className="label-text-alt link link-hover">Forgot password?</a>
-                                </label>
+                                
                             </div>
                             <div className="form-control mt-6">
                                 <button className="btn bg-brown-400 hover:bg-brown-700 text-white">Register</button>
